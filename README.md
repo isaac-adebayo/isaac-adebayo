@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Adebayo
 - 👀 I’m interested in DevOps Engineering, Data Science & Machine Learning
-- 🌱 I’m currently learning undergoing Xternship in DevOps engineering at Darey.io and Data Science training at ALX Africa
+- 🌱 I’m currently undergoing Xternship in DevOps engineering at Darey.io and Data Science training at ALX Africa
 - 💞️ I’m looking to collaborate on DevOps Engineering and Machine Learning projects.
 - 📫 How to reach me: email: ai.isaacadebayo@gmail.com, Linkedin: https://www.linkedin.com/in/isaacadebayo/
 
